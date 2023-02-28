@@ -1,0 +1,1 @@
+npx sequelize-cli model:generate --name student --attributes id:uuid,name:string,mobile:string,email:string
