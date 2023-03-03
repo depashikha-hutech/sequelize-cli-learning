@@ -1,1 +1,2 @@
 npx sequelize-cli model:generate --name student --attributes id:uuid,name:string,mobile:string,email:string
+npx sequelize-cli model:generate --name organization --attributes id:uuid,name:string,mobile:string,email:string
